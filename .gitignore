@@ -17,3 +17,8 @@ Thumbs.db
 #############
 .vscode
 .idea
+
+# Test Data
+#############
+test
+*.xml
